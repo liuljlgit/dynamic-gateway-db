@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: dynamic-gateway-db
+  main:
+    allow-bean-definition-overriding: true
+
